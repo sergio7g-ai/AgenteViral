@@ -1,0 +1,9 @@
+{
+  "name": "Viral Content Command Center",
+  "short_name": "Viral Command",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#0b0d13",
+  "theme_color": "#10131d",
+  "description": "Painel de controlo do agente de conteúdo viral"
+}
